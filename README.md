@@ -1,6 +1,6 @@
 ### Olá, sou o Deego. 👋
 
-Um programador iniciando a carreira e em busca mais conhecimento nas áreas de tecnologia. 
+Um programador iniciando a carreira e em busca de mais conhecimento nas áreas de tecnologia. 
 
 Também um artista digital.
 
