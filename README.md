@@ -1,8 +1,11 @@
 ### Olá, sou o Deego. 👋
 
-Um programador iniciando a carreira e em busca de mais conhecimento nas áreas de tecnologia. 
+Sou um desenvolvedor em início de carreira, focado em aprendizado contínuo e aprimoramento técnico. 💻
 
-Também um artista digital.
+Também trabalho com arte digital, explorando criatividade e design. 🎨
+
+Aqui você encontra alguns dos meus projetos e estudos. 🚀
+
 
 ### Minhas redes:
 
