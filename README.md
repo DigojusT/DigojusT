@@ -1,4 +1,4 @@
-### Olá, sou o Digo. 👋
+### Olá, sou o Deego. 👋
 
 Um programador iniciando a carreira e em busca mais conhecimento nas áreas de tecnologia. 
 
