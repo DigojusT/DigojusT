@@ -1,16 +1,8 @@
-### Olá, sou o Deego. 👋
+### Olá, sou o Diego. 👋
 
-Sou um desenvolvedor em início de carreira, focado em aprendizado contínuo e aprimoramento técnico. 💻
+Faço uns programinhas
 
-Também trabalho com arte digital, explorando criatividade e design. 🎨
-
-Aqui você encontra alguns dos meus projetos e estudos. 🚀
-
-
-### Minhas redes:
-
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@justDeego)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/imjustdigo/)
+[![Segue eu](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/imjustdigo/)
 
 ### Aprendendo essas tecnologias:
 <div style="display:inline-block">
